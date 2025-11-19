@@ -1,0 +1,8 @@
+<video
+  src="https://raw.githubusercontent.com/PDCrispin/public/main/2025-11-07%20Profiling%20KD%20Transfers%207/cifar100_KD_ResNet44___ResNet20.webm"
+  loop
+  autoplay
+  muted
+  controls
+  type="video/webm" width="100%">
+</video>
